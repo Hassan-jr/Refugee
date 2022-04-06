@@ -1,0 +1,28 @@
+.Headimg{
+    height: 400px;
+    width: 100vw;
+    background-color: rgb(24, 20, 20);
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+.headingpic {
+    opacity: 0.5;
+    width: 600px;
+    object-fit: contain;
+    margin-right: 10px;
+}
+.cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.heading_details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

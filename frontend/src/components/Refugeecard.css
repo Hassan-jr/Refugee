@@ -1,0 +1,16 @@
+.refugeecard-container{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    padding: 10px;
+    margin: 20px;
+    width: 300px;
+    
+    border-radius: 8px;
+background: #ffffff;
+box-shadow:  6px 6px 12px #e2cfcfdc,
+             -6px -6px 12px #ece9e9;
+}
+.field-title{
+ color: #61dafb;
+}
