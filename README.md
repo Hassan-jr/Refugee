@@ -9,4 +9,4 @@ spread across the country. A record is required on all employee of the various N
 offering different services at the refugee camps. The government allocates funds for 
 refugees whose expenditure must be recorded and monitored at the various camps.*
 
-#### *Project Score: A*
+#### *Project Score(Grade): A*
